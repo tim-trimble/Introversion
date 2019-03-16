@@ -1,0 +1,1 @@
+draw_sprite(Main_Character_Back, 0, BaseImages.p_x, BaseImages.p_y);
